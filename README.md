@@ -1,5 +1,7 @@
 # spark-hands-on
-Spark hands-on example for medium posts.
+Spark hands-on example for medium posts. 
+
+It's all based on **Almond** Scala kernels, thanks for [almond.sh](https://almond.sh/) team. 
 
 ## Running Spark notebook
 
