@@ -6,7 +6,7 @@ It's all based on **Almond** Scala kernels, thanks for [almond.sh](https://almon
 ## Running Spark notebook
 
 ```bash
-docker run -it --rm -p 3838:8888 -p 4040:4040 -p 4041:4041 radcheb/spark-notebook:latest
+docker run -it --rm -p 8888:8888 -p 4040:4040 -p 4041:4041 radcheb/spark-notebook:latest
 ```
 ## [Adaptive Query Execution — Part1](https://medium.com/data-engineering-for-all/spark-2-x-to-spark-3-0-adaptive-query-execution-part1-182e61e6cfcb)
 * `notebooks/spark3_adaptive-query-execution-1`
